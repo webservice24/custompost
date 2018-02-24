@@ -3,6 +3,8 @@ Crete custom post for Wordpress
 At first copy the below code and paste on functions.php file
 
 // Register Custom Post Type
+
+
 function meteor_custom_posts() {
 
 	$labels = array(
